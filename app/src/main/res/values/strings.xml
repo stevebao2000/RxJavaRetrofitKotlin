@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofitRx Kotlin</string>
+    <string name="github_entries">GitHub Entries:</string>
+</resources>
